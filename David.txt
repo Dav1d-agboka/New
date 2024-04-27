@@ -1,0 +1,15 @@
+<html>
+    <h1>
+      Hey I am Agboka David
+    </h1>
+    <body>
+         <h2>About me</h2>
+         <p>
+             I am a student at wallahs academy shs. Am also attending a church called greater life in christ ministries.
+         </p>
+         <h2>What am working on</h2>
+         <p>
+             I love AI and want to further my education n computer science.
+         </p>
+    </body>
+</html>
